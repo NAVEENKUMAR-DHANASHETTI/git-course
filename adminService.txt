@@ -2,3 +2,5 @@ admin service usename id
 adminn can change rules
 mangaing the admingit 
 checking the credentials
+
+change 1
