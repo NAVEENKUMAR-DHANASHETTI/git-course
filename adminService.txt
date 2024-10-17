@@ -1,2 +1,3 @@
 admin service usename id
 adminn can change rules
+mangaing the admingit 
