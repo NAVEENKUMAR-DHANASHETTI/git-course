@@ -3,6 +3,6 @@ adminn can change rules
 mangaing the admingit 
 checking the credentials
 
-closinng the mysql database connection.
+closinng the oracle database connection.
 
 change 1
