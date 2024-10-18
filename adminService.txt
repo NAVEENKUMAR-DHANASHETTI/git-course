@@ -1,7 +1,6 @@
 admin service usename id
 adminn can change rules
-mangaing the admingit 
-checking the credentials
+making changes
 
 closinng the mysql database connection.
 
