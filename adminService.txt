@@ -9,3 +9,11 @@ adding mysql database connection
 
 
 change 1
+
+
+creating an AI
+.....
+...
+..
+.
+
